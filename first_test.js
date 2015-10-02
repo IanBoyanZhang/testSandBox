@@ -5,6 +5,5 @@ describe("Vehicle", function() {
       expect(car.type).to.equal("car");
     });
   });
-
 });
 
